@@ -3,9 +3,6 @@
 FURB - Pós Graduação em Data Science<br/>
 Deep Learning<br/>
 Aluno: Felipe Eduardo Gomes<br/><br/>
-Repositório dos fontes do Trabalho Final de Deep Learning - FURB
-
-### Instruções
 
 Instruções:
 - O objetivo deste trabalho é criar um modelo binário de aprendizado de máquina para classificação de textos. 
